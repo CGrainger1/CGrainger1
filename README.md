@@ -1,12 +1,8 @@
-## Hi there 👋
-
-I am currently studying to be a Data Analytics Consultant.
-
-<!--
-**CGrainger1/CGrainger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
-Hi, I’m Callum 🤝<br><br>🔭 I am currently studying to be a Data Analytics Consultant.<br>🌱 I am especially interested on learning how to use Python and how to code.<br>📫 You can reach out to me here for anything!
+Hi, I’m Callum 🤝
+
+🔭 I am currently studying to be a Data Analytics Consultant.<br>🌱 I am especially interested on learning how to use Python and how to code.
+📫 You can reach out to me here for anything!
 
 
 ## 🌐 Socials:
